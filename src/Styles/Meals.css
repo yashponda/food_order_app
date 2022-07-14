@@ -1,0 +1,58 @@
+.meals{
+    border: 1px solid black;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    width: 823px;
+    height: 169px;
+    font-size: 17px;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-left: 19%;
+    padding-left: 18px;
+}
+.items{
+    color: red;
+    margin-top: -15px;
+}
+.items_action{
+    margin-top: -129px;
+    margin-left: 59%;
+}
+.add_btn{
+    cursor: pointer;
+    margin-left: 80%;
+    width: 80px;
+    height: 29px;
+    color: #bd1212;
+    background-color: #aeb4e5;
+    border: none;
+    border-radius: 19px;
+}
+.meal_img{
+    border-radius: 10px;
+    margin-left: 54%;
+    margin-top: 10px;
+    width: 62px;
+    height: 60px;
+}
+.qty_txt{
+    color: #7676d9;
+    margin-top: 1px;
+}
+#qty{
+    width: 44px;
+    height: 20px;
+}
+.quantity{
+    margin-top: 10px;
+    margin-left: 55px;
+    display: inline-flex;
+}
+.plus_btn{
+    cursor: pointer;
+    height: 24px;
+    width: 30px;
+}
+.price{
+    color: #7676d9;
+}
