@@ -28,6 +28,11 @@
     border: none;
     border-radius: 19px;
 }
+.add_btn:hover,.plus_btn:hover{
+    color: black;
+    background-color: #16eead;
+    border: 2px solid black;
+}
 .meal_img{
     border-radius: 10px;
     margin-left: 54%;
